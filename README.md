@@ -1,2 +1,1 @@
-# homework7
-BDD
+BDD examples from Otus.com
